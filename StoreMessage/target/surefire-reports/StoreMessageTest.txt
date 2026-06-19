@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: StoreMessageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.214 s <<< FAILURE! -- in StoreMessageTest
+StoreMessageTest.testJSONFilePersistence -- Time elapsed: 0.120 s <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at StoreMessage.main(StoreMessage.java:13)
+	at StoreMessageTest.testJSONFilePersistence(StoreMessageTest.java:220)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1612)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1612)
+
